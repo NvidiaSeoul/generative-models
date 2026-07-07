@@ -1,6 +1,6 @@
 # 생성 모델 — VAE & GAN / Generative Models: VAE & GAN
 
-> **English summary.** Two families of generative models trained on MNIST: a **Variational Autoencoder (VAE)** in PyTorch — encoder/decoder with a probabilistic latent space and the reconstruction + KL objective — and a **Deep Convolutional GAN (DCGAN)** in TensorFlow/Keras — a generator and discriminator trained adversarially. Practice materials from the NVIDIA AI Academy Seoul program.
+> **English summary.** Two families of generative models trained on MNIST: a **Variational Autoencoder (VAE)** in PyTorch — encoder/decoder with a probabilistic latent space and the reconstruction + KL objective — and a **Deep Convolutional GAN (DCGAN)** in TensorFlow/Keras — a generator and discriminator trained adversarially.
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
